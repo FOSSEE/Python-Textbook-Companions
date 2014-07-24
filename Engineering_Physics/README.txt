@@ -1,10 +1,10 @@
-Contributed By: ADITYA DHARMASAGAR KALIDAS
+Contributed By: KRISHNA CHAITANYA
 Course: btech
-College/Institute/Organization: vaageswari college of engineering
-Department/Designation: ECE
+College/Institute/Organization: JNTUH
+Department/Designation: Computer Science
 Book Title: Engineering Physics
-Author: Dr. K. Vijaya Kumar
-Publisher: S. Chand & Company Ltd., New Delhi
-Year of publication: 2011
-Isbn: 81-219-3852-X
+Author: D. K. Bhattacharya & A. Bhaskaran
+Publisher: Oxford University Press, New Delhi
+Year of publication: 2013
+Isbn: 9780198065425
 Edition: 1

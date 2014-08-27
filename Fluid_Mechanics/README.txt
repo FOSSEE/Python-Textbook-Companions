@@ -1,10 +1,10 @@
-Contributed By: Rahul Joshi
-Course: mtech
-College/Institute/Organization: IIT Bombay
-Department/Designation: Mechanical Engineering
-Book Title: Fluid Mechanics 
-Author: Irfan A. Khan
-Publisher: Holt, Rinehart and Winston,  The Dryden Press , Saunders College Publishing
-Year of publication: 1987
-Isbn: 0-03-071473-7
-Edition: 1st Edition
+Contributed By: Ashish Kumar
+Course: btech
+College/Institute/Organization: IITB
+Department/Designation: Aerospace Engg.
+Book Title: Fluid Mechanics
+Author: John F. Douglas
+Publisher: Pearson Education
+Year of publication: 2005
+Isbn: 978-0-13-129293-2
+Edition: 5th

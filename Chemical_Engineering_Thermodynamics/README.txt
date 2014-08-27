@@ -1,10 +1,10 @@
-Contributed By: pratik gandhi
-Course: bca
-College/Institute/Organization: Cybercom Creation
-Department/Designation: Developer
+Contributed By: Jai Mathur
+Course: mca
+College/Institute/Organization: IIT
+Department/Designation: System Admin
 Book Title: Chemical Engineering Thermodynamics
-Author: P. Ahuja
-Publisher: PHI Learning Private Limited, New Delhi
-Year of publication: 2009
-Isbn: 9788120336377
+Author: Y. V. C. Rao
+Publisher: Universities Press
+Year of publication: 1997
+Isbn: 81-7371-048-1
 Edition: 1

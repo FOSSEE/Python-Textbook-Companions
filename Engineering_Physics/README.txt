@@ -1,10 +1,10 @@
-Contributed By: KRISHNA CHAITANYA
-Course: btech
-College/Institute/Organization: JNTUH
-Department/Designation: Computer Science
+Contributed By: Muktesh Chaudhary
+Course: be
+College/Institute/Organization: Anglo Eastern ship management india Pvt. Ltd
+Department/Designation: Electrical & Electronics Officer
 Book Title: Engineering Physics
-Author: D. K. Bhattacharya & A. Bhaskaran
-Publisher: Oxford University Press, New Delhi
-Year of publication: 2013
-Isbn: 9780198065425
-Edition: 1
+Author: H. K. Malik & A. Singh
+Publisher: Tata McGraw Hill, New Delhi
+Year of publication: 2010
+Isbn: 9780070671539
+Edition: 1st

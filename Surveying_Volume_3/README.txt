@@ -1,10 +1,10 @@
-Contributed By: Tarun Kumar Das
+Contributed By: Avik Kumar Das
 Course: btech
-College/Institute/Organization: College of Engineering
-Department/Designation: Industrial Engineering
+College/Institute/Organization: Indian Institute of Technology Bombay
+Department/Designation: Civil Engineering
 Book Title: Surveying Volume 3
-Author: A K Arora
-Publisher: Lakshmi Publications, Chennai
-Year of publication: 2011
-Isbn: 9788189401276
-Edition: 1
+Author: B C Punmia
+Publisher: Laxmi Publication, New Delhi
+Year of publication: 1990
+Isbn: 81-7008-054-18
+Edition: 9

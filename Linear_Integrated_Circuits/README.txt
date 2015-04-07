@@ -1,10 +1,10 @@
-Contributed By: Sagar Shinde
-Course: btech
-College/Institute/Organization: Vishwakarma institute of Technology, Pune.
-Department/Designation: ENTC
+Contributed By: Aswin  Venu
+Course: be
+College/Institute/Organization: Pavai College of technology 
+Department/Designation: ECE
 Book Title: Linear Integrated Circuits
-Author: S Shalivahanan,   V S  Kanchana Bhaaskaran 
-Publisher: Tata McGraw-Hill  Publishing Company Limited, New Dehli
-Year of publication: 2008
-Isbn: 0-07-064818-2
-Edition: 1st
+Author: D.Roy Choudhury, Shail B. Jain
+Publisher: New age international publishers,New Delhi
+Year of publication: 2012
+Isbn: 9788122430981
+Edition: 4th

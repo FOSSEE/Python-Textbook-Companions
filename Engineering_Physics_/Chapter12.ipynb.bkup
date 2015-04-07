@@ -1,0 +1,287 @@
+{
+ "metadata": {
+  "name": "",
+  "signature": "sha256:0e9faaea32136a2f476b53b6ab2d5d2eb5330fb68ebd80aaad9bbe7ed1328c93"
+ },
+ "nbformat": 3,
+ "nbformat_minor": 0,
+ "worksheets": [
+  {
+   "cells": [
+    {
+     "cell_type": "heading",
+     "level": 1,
+     "metadata": {},
+     "source": [
+      "12: Radioactivity"
+     ]
+    },
+    {
+     "cell_type": "heading",
+     "level": 2,
+     "metadata": {},
+     "source": [
+      "Example number 12.1, Page number 351"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#importing modules\n",
+      "import math\n",
+      "from __future__ import division\n",
+      "\n",
+      "#Variable declaration\n",
+      "M7Li3=7.018232; #mass of 7li3(amu)\n",
+      "Malpha=4.003874;  #mass of alpha particle(amu)\n",
+      "Mpr=1.008145;  #mass of proton(amu)\n",
+      "Ey=9.15;   #K.E energy of product nucleus\n",
+      "\n",
+      "#Calculation\n",
+      "#xMy -> x-mass no., M-element, y-atomic no.\n",
+      "#reaction:- 7li3 + 1H1-> 4He2 + 4He2\n",
+      "deltaM=M7Li3+Mpr-2*Malpha;  #mass defect(amu)\n",
+      "Q=deltaM*931;   #mass defect(MeV)\n",
+      "Ex=2*Ey-Q;    #K.E of incident particle(MeV)\n",
+      "\n",
+      "#Result\n",
+      "print \"kinetic energy of incident proton is\",round(Ex,4),\"MeV\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "kinetic energy of incident proton is 0.9564 MeV\n"
+       ]
+      }
+     ],
+     "prompt_number": 2
+    },
+    {
+     "cell_type": "heading",
+     "level": 2,
+     "metadata": {},
+     "source": [
+      "Example number 12.2, Page number 351"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#importing modules\n",
+      "import math\n",
+      "from __future__ import division\n",
+      "\n",
+      "#Variable declaration\n",
+      "M235U=235;   #atomic mass of 235U\n",
+      "m=10**-3;    #mass of fissions(gm)\n",
+      "N=6.023*10**23;   #avagadro number\n",
+      "Eperfi=200*10**6;   #energy per fission(eV)\n",
+      "T=10**-6;    #time(s)\n",
+      "\n",
+      "#Calculation\n",
+      "E=Eperfi*1.6*10**-19;   #energy per fission(J)\n",
+      "A=M235U; \n",
+      "P=((m*N)/A)*(E/T);    #power explosion(Watt)\n",
+      "\n",
+      "#Result\n",
+      "print \"power of explosion is\",P,\"Watt\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "power of explosion is 8.20153191489e+13 Watt\n"
+       ]
+      }
+     ],
+     "prompt_number": 3
+    },
+    {
+     "cell_type": "heading",
+     "level": 2,
+     "metadata": {},
+     "source": [
+      "Example number 12.4, Page number 352"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#importing modules\n",
+      "import math\n",
+      "from __future__ import division\n",
+      "\n",
+      "#Variable declaration\n",
+      "n=0.4;  #efficiency\n",
+      "N=6.06*10**26;   #avagadro number\n",
+      "Eperfi=200*10**6;  #energy per fission(eV)\n",
+      "P=100*10**6;    #electric power(W)\n",
+      "A=235;\n",
+      "\n",
+      "#Calculation\n",
+      "E=Eperfi*1.6*10**-19;   #energy per fission(J)\n",
+      "T=24*60*60;    #time(sec)\n",
+      "N235=P*T/(E*n);   #number of atoms in 235 kg of U235\n",
+      "m=(A*N235)/N;     #mass of 235U consumed/day(kg)\n",
+      "\n",
+      "#Result\n",
+      "print \"mass of 235U consumed/day is\",int(m*10**3),\"g\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "mass of 235U consumed/day is 261 g\n"
+       ]
+      }
+     ],
+     "prompt_number": 13
+    },
+    {
+     "cell_type": "heading",
+     "level": 2,
+     "metadata": {},
+     "source": [
+      "Example number 12.5, Page number 352"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#importing modules\n",
+      "import math\n",
+      "from __future__ import division\n",
+      "\n",
+      "#Variable declaration\n",
+      "M2H1=2.01474;   #mass of M2H1(amu)\n",
+      "M3H1=3.01700;   #mass of M3H1(amu)\n",
+      "M1n0=1.008986;  #mass of M1n0(amu)\n",
+      "M4He2=4.003880;  #mass of M4He2(amu)\n",
+      "\n",
+      "#Calculation\n",
+      "#thermonuclear reaction in hydrogen bomb explosion \n",
+      "#2H1 + 3H1 -> 4He2 + 1n0\n",
+      "Mreac=M2H1+M3H1;   #mass of reactants(amu)\n",
+      "Mprod=M4He2+M1n0;  #mass of products(amu)\n",
+      "Q=Mreac-Mprod;   #amount of energy released per reaction(J)\n",
+      "Q=Q*931;    #amount of energy released per reaction(MeV)\n",
+      "\n",
+      "#Result\n",
+      "print \"amount of energy released per reaction is\",round(Q,3),\"MeV\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "amount of energy released per reaction is 17.572 MeV\n"
+       ]
+      }
+     ],
+     "prompt_number": 15
+    },
+    {
+     "cell_type": "heading",
+     "level": 2,
+     "metadata": {},
+     "source": [
+      "Example number 12.6, Page number 353"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#importing modules\n",
+      "import math\n",
+      "from __future__ import division\n",
+      "\n",
+      "#Variable declaration\n",
+      "M7Li3=7.01818;   #mass of Li atom(amu)\n",
+      "M1H1=1.0081;     #mass of H atom(amu)\n",
+      "M1n0=1.009;     #mass of neutron(amu)\n",
+      "\n",
+      "#Calculation\n",
+      "BEpernu=(1/7)*((3*M1H1)+(4*M1n0)-M7Li3);  #binding energy per nucleon(J)\n",
+      "BEpernu=BEpernu*931;   #binding energy per nucleon(MeV)\n",
+      "\n",
+      "#Result\n",
+      "print \"binding energy per nucleon is\",BEpernu,\"MeV\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "binding energy per nucleon is 5.60196 MeV\n"
+       ]
+      }
+     ],
+     "prompt_number": 16
+    },
+    {
+     "cell_type": "heading",
+     "level": 2,
+     "metadata": {},
+     "source": [
+      "Example number 12.7, Page number 353"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#importing modules\n",
+      "import math\n",
+      "from __future__ import division\n",
+      "\n",
+      "#Variable declaration\n",
+      "m=10*10**3;    #mass of U235(gm)\n",
+      "N=6.02*10**23;    #avagadro number\n",
+      "Eperfi=200*10**6;  #energy per fission(eV)\n",
+      "A=235;\n",
+      "\n",
+      "#Calculation\n",
+      "E=Eperfi*1.6*10**-19;   #energy(J)\n",
+      "T=24*60*60;   #time(s)\n",
+      "P=((m*N)/A)*(E/T);    #power output(Watt)\n",
+      "\n",
+      "#Result\n",
+      "print \"power output is\",round(P/10**9,3),\"*10**9 Watt\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "power output is 9.488 *10**9 Watt\n"
+       ]
+      }
+     ],
+     "prompt_number": 19
+    }
+   ],
+   "metadata": {}
+  }
+ ]
+}

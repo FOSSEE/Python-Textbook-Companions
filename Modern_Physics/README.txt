@@ -1,10 +1,10 @@
-Contributed By: Puneetha Ramachandra
-Course: be
-College/Institute/Organization: National Institute of Technology
-Department/Designation: Electronics & CommunicationsEngg
+Contributed By: KRISHNA CHAITANYA
+Course: btech
+College/Institute/Organization: JNTUH
+Department/Designation: Computer Science
 Book Title: Modern Physics
-Author: Serway, Moses & Moyer
-Publisher: Thomson Learning, Inc.
-Year of publication: 2005
-Isbn: 0-534-40624-6
-Edition: 3rd
+Author: G. Aruldhas & P. Rajagopal
+Publisher: PHI Learning Private Limited, New Delhi
+Year of publication: 2009
+Isbn: 978-81-203-2597-5
+Edition: 4

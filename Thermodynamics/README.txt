@@ -1,10 +1,10 @@
-Contributed By: pratik gandhi
-Course: bca
-College/Institute/Organization: Cybercom Creation
-Department/Designation: Developer
+Contributed By: Manikandan D
+Course: be
+College/Institute/Organization: EBET Group of Institutions,Kangayam
+Department/Designation: Mechanical Engineering
 Book Title: Thermodynamics
-Author: B. l. Singhal
-Publisher: Tech-max Publications, Pune
-Year of publication: 2011
-Isbn: 978-81-8492-103-8
-Edition: 3
+Author: C P Arora
+Publisher: Tata McGraw Hill, New Delhi
+Year of publication: 2001
+Isbn: 0-07-462014-2
+Edition: 1

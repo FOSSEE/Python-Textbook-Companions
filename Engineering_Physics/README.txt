@@ -3,8 +3,8 @@ Course: btech
 College/Institute/Organization: JNTUH
 Department/Designation: Computer Science
 Book Title: Engineering Physics
-Author: V Rajendran
-Publisher: Tata McGraw-Hill Publishing Company Limited(New Delhi)
-Year of publication: 2008
-Isbn: 9780070261037
+Author: P. V. Naik
+Publisher: Pearson Education(Singapore)
+Year of publication: 2004
+Isbn: 8129705206
 Edition: 1

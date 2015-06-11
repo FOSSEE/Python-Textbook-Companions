@@ -1,10 +1,10 @@
-Contributed By: Manikandan D
+Contributed By: gokul lalani
 Course: be
-College/Institute/Organization: EBET Group of Institutions,Kangayam
-Department/Designation: Mechanical Engineering
+College/Institute/Organization: Freelancer
+Department/Designation: Developer
 Book Title: Thermodynamics
-Author: C P Arora
-Publisher: Tata McGraw Hill, New Delhi
-Year of publication: 2001
-Isbn: 0-07-462014-2
-Edition: 1
+Author: J. P. Holman
+Publisher: Prentice Hall, New Jersey
+Year of publication: 1988
+Isbn: 0070296332
+Edition: 4

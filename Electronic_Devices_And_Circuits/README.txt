@@ -1,10 +1,10 @@
-Contributed By: Laxman Sole
+Contributed By: Yogesh Patil
 Course: btech
 College/Institute/Organization: Vishwakarma Institute of Technology, Pune
-Department/Designation: Electronics Engineering
+Department/Designation: Instrumentation and Control Engg
 Book Title: Electronic Devices And Circuits
-Author: Satya Prakash, Saurabh Rawat
-Publisher: Anand Publications, New Delhi
-Year of publication: 2012
-Isbn: 978-93-80225-48-7
-Edition: 3
+Author: K. L. Kishore
+Publisher: BS Publications, Hyderabad
+Year of publication: 2008
+Isbn: 81-7800-167-5
+Edition: 1

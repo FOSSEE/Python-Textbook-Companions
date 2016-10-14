@@ -1,10 +1,10 @@
-Contributed By: Jeevan Lal
-Course: me
-College/Institute/Organization: MPBtech. ECE, 6th SemVNIT Nagpur
-Department/Designation: MPBtech. ECE, 6th SemVNIT Nagpur
+Contributed By: Kushal R
+Course: mscit
+College/Institute/Organization: -
+Department/Designation: -
 Book Title: hfgd
 Author: Gayakwad
-Publisher: sdf
-Year of publication: 2001
-Isbn: 444
-Edition: 9
+Publisher: e
+Year of publication: 3
+Isbn: 67
+Edition: r
